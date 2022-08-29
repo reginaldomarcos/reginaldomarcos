@@ -1,5 +1,5 @@
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning HTML, CSS, PHP
 
 👨‍💻 All of my projects are available at https://github.com/reginaldomarcos
 
